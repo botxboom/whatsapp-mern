@@ -1,0 +1,8 @@
+loginbackground{
+    flex: 1;
+    background-image: url("https://ibin.co/5gtAEaHlyM7v.png");
+    background-repeat: repeat;
+    background-position: center;
+    padding: 30px;
+    overflow: scroll;
+}
